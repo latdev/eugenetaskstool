@@ -1,5 +1,7 @@
 = Time and tasking Library for Arduino =
+
 == Description ==
+
 Allows to easy delay some calls without blocking processor with delay function.
 
 == License ==
